@@ -1,5 +1,12 @@
 # @dreki-gg/pi-jira
 
+## [0.3.0](https://github.com/jalbarrang/pi-jira/compare/v0.2.0...v0.3.0) (2026-07-11)
+
+
+### Features
+
+* extract pi-jira from dreki-gg/pi-extensions monorepo ([a0bb65c](https://github.com/jalbarrang/pi-jira/commit/a0bb65c7c2030ad5353540f3f7f733c133437165))
+
 ## 0.2.0
 
 ### Minor Changes
