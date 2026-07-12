@@ -1,5 +1,12 @@
 # @dreki-gg/pi-jira
 
+## [0.3.1](https://github.com/jalbarrang/pi-jira/compare/v0.3.0...v0.3.1) (2026-07-12)
+
+
+### Bug Fixes
+
+* **deps:** bump dependencies to latest ([#4](https://github.com/jalbarrang/pi-jira/issues/4)) ([d8d7545](https://github.com/jalbarrang/pi-jira/commit/d8d7545035e8d51c485f63345a8ee322c6e13b44))
+
 ## [0.3.0](https://github.com/jalbarrang/pi-jira/compare/v0.2.0...v0.3.0) (2026-07-11)
 
 

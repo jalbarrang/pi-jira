@@ -1,7 +1,7 @@
 {
   "name": "@dreki-gg/pi-jira",
-  "version": "0.3.0",
-  "description": "Jira tools for pi via an authenticated Atlassian CLI (acli) session \u2014 pull ticket context and write concise comments",
+  "version": "0.3.1",
+  "description": "Jira tools for pi via an authenticated Atlassian CLI (acli) session — pull ticket context and write concise comments",
   "keywords": [
     "pi-package",
     "pi",
